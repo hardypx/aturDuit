@@ -13,7 +13,7 @@
 .app-footer {
   width: 100%;
   padding: 20px 0;
-  margin-top: 40px; /* Memberi jarak dari konten atas */
+  margin-top: 20px; /* Memberi jarak dari konten atas */
   border-top: 1px solid #eaeaea;
   text-align: center;
   color: #666;
