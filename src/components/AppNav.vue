@@ -6,7 +6,7 @@
           <div class="w-10 h-10 bg-gradient-to-br from-blue-600 to-indigo-700 rounded-xl flex items-center justify-center text-white shadow-lg">
             <i class="fas fa-wallet text-lg"></i>
           </div>
-          <span class="font-bold text-xl text-slate-900 tracking-tight">aturDuit</span>
+          <span class="font-bold text-xl text-slate-900 tracking-tight">Atur Duit</span>
         </div>
 
         <!-- Desktop Nav -->
