@@ -12,13 +12,19 @@
       </main>
     </div>
 
-    <footer class="w-full text-center py-6 border-t border-slate-200 bg-slate-50/50 mt-auto">
-      <p class="text-sm text-slate-500 font-medium">
-        &copy; 2026 AturDuit. All rights reserved.
-      </p>
-      <p class="text-xs text-slate-400 mt-1">
-        Built with Vue & Vite • Clean URL Mode
-      </p>
+    <!-- FOOTER ULTRA MINIMALIS -->
+    <footer class="max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6 mt-auto">
+      <div class="border-t border-slate-100 pt-6 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs tracking-wide text-slate-400">
+        <div class="flex items-center gap-2">
+          <span class="inline-block w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
+          <span>AturDuit &copy; 2026</span>
+        </div>
+        <div class="flex items-center gap-3 font-mono opacity-80">
+          <span>Vue Js Vite</span>
+          <span class="text-slate-200">|</span>
+          <span>pixelStudio</span>
+        </div>
+      </div>
     </footer>
 
     <ToastNotification />
