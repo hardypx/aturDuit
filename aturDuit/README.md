@@ -1,1 +1,0 @@
-# atur-duit
