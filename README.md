@@ -1,9 +1,5 @@
 # atur-duit
 
-Berikut adalah draf file `README.md` yang detail, bersih, dan profesional untuk aplikasi hitung uang bulanan Anda. File ini sudah disesuaikan dengan teknologi **Vue 3**, **Vite**, dan **Vue Router** (tanpa hash) yang sedang Anda gunakan.
-
-Anda tinggal menyalin kode di bawah ini dan memasukkannya ke dalam file `README.md` di root folder proyek Anda.
-
 ---
 
 ```markdown
