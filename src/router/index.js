@@ -1,4 +1,4 @@
-import { createRouter, createWebHashHistory } from 'vue-router'
+import { createRouter, createWebHistory } from 'vue-router' // createWebHashHistory diganti menjadi createWebHistory.
 import DashboardView from '../views/DashboardView.vue'
 import TransaksiView from '../views/TransaksiView.vue'
 import RekapView from '../views/RekapView.vue'
@@ -12,8 +12,8 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHashHistory(),
-  routes,
+  history: createWebHistory(), // Fungsi createWebHashHistory() diubah menjadi createWebHistory()
+  routes: routes,              // routes ditambah menjadi routes: routes
   scrollBehavior() {
     return { top: 0 }
   }
